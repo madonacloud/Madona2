@@ -1,0 +1,9 @@
+variable "region" {}
+variable "vpc_cidr" {}
+variable "my_project_title" {}
+variable "pub_sn_az1_cidr" {}
+variable "pub_sn_az2_cidr" {}
+variable "priv_application_tier_sn_az1_cidr" {}
+variable "priv_application_tier_sn_az2_cidr" {}
+variable "priv_data_tier_sn_az1_cidr" {}
+variable "priv_data_tier_sn_az2_cidr" {}
